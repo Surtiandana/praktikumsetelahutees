@@ -1,0 +1,21 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+@import "bootstrap-icons/font/bootstrap-icons.css";
+
+.btn-pink {
+    background-color: pink;
+    border-color: pink;
+    color: white;
+}
+
+.btn-pink:hover {
+    background-color: lightpink;
+    border-color: lightpink;
+    color: white;
+}
